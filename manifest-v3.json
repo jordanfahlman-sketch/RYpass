@@ -1,0 +1,10 @@
+{
+  "name": "Rise Youth Pass",
+  "short_name": "Rise Youth",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "description": "Rise Youth Middle School check-in pass"
+}
