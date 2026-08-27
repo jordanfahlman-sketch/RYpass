@@ -3,7 +3,7 @@ const CORE_ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './icon.svg'
+  './icon.png'
 ];
 
 self.addEventListener('install', event => {
